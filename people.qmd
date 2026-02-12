@@ -1,0 +1,16 @@
+---
+title: "People"
+---
+
+## Principal Investigator
+**Mengyan (Ian) Li**  
+Associate Professor, Department of Chemistry and Environmental Science, NJIT
+
+## Current members
+Add member photos and short bios here. A clean format is:
+
+**Name** — Role  
+One sentence on interests or methods.
+
+## Alumni
+Add names, roles, and current destinations here.
