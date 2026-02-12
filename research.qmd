@@ -1,0 +1,7 @@
+---
+title: "Research"
+---
+
+MIL focuses on environmentally relevant microbial functions that enable contaminant transformation and sustainable technologies. Our projects span laboratory mechanistic studies, environmental microcosms, and data-driven discovery.
+
+We are especially interested in (i) biodegradation and biotransformation pathways of emerging contaminants, (ii) the molecular basis of key enzymes and genes, and (iii) integrating omics and advanced analytical chemistry to connect community structure with function.
