@@ -1,0 +1,20 @@
+---
+title: "Microbial Innovation Lab (MIL)"
+subtitle: "Microbial mechanisms and innovation for contaminant transformation and sustainable water systems"
+---
+
+Welcome to the **Microbial Innovation Lab (MIL)** at the Department of Chemistry and Environmental Science, **New Jersey Institute of Technology (NJIT)**. We study how microbes and enzymes transform emerging contaminants, and we develop biotechnology that supports clean water and environmental sustainability.
+
+## Research themes
+
+### Microbial transformation of emerging contaminants
+We investigate pathways, intermediates, and rates of biotransformation across environmental and engineered systems, with an emphasis on rigorous analytical confirmation.
+
+### Molecular mechanisms and environmental biocatalysis
+We connect genes to function using molecular biology and protein/enzyme characterization, linking mechanism to environmental performance.
+
+### Data-enabled environmental microbiology
+We integrate genomics and bioinformatics with high-resolution analytics to understand microbial communities and discover new functions.
+
+## Interested in joining?
+We recruit **PhD students and postdoctoral researchers**, and we welcome **international applicants**. Visit the **Join** page for details.
