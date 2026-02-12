@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "Microbial Innovation Lab (MIL)"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: people.qmd
+        text: People
+      - href: publications.qmd
+        text: Publications
+      - href: join.qmd
+        text: Join
+      - href: contact.qmd
+        text: Contact
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    page-layout: full
