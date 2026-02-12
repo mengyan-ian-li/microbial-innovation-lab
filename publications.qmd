@@ -1,0 +1,10 @@
+---
+title: "Publications"
+---
+
+For now, list selected papers here (3–10). If you want, we can later auto-build this page from Google Scholar, ORCID, or a BibTeX file.
+
+**Selected publications**
+1. Paper title. *Journal* (Year).  
+2. Paper title. *Journal* (Year).  
+3. Paper title. *Journal* (Year).
